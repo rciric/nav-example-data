@@ -1,0 +1,20 @@
+{
+  "Authors": ["Fonov V", "Evans AC", "Botteron K", "Almli CR", "McKinstry RC", "Collins DL"],
+  "Acknowledgements": "Example template",
+  "BIDSVersion": "1.1.0",
+  "HowToAcknowledge": "This atlas is an example only. The two first publications indexed by the ReferencesAndLinks field should be referenced when using this atlas.",
+  "Identifier": "MNI152",
+  "Name": "MNI 152 atlas",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2010.07.033",
+    "https://doi.org/10.1016/S1053-8119(09)70884-5",
+    "https://doi.org/10.1007/3-540-48714-X_16"],
+  "TemplateFlowVersion": "1.0.0",
+  "res": {
+    "01": {
+      "origin": [90.0, -126.0, -72.0],
+      "shape": [182, 218, 182],
+      "zooms": [1.0, 1.0, 1.0]
+    }
+  }
+}
